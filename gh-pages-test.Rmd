@@ -1,8 +1,0 @@
----
-title: "gh-pages test"
-output: html_document
----
-
-gh-pages test
-
-Is this working?
